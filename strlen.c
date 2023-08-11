@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strlen - Sizes the length of a string
  * @string: String to be sized
