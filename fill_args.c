@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * fill_args - Fill an array with every input typed by the user
  * @entry: String with the input
