@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * verify_path - Verify if the first command can be executed
  * @arguments: Array of entries by the user
