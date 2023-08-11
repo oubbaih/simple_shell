@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _printp - Prints the prompt in the standar input
  * @prompt: Pointer to the string to be printed
