@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * exec - Creates a new child process,
  * executes a command and wait for the child process
