@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * append_command - Concatenates an input with paths in global variable PATH
  * @dir_path: directory string to be append with the command
