@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * exist - Verify if a file exist
  * @pathname: path to the file
