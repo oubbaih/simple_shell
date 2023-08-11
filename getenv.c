@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _getenv - Get the content of a global variable
  * @global_var: Variable to extract from environ
