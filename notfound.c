@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_not_found - Prints error message when a command is not found
  * @arguments: array of args typed by the user
